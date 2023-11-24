@@ -20,6 +20,6 @@ portafolio.addEventListener("click", (p) => {
 contacto.addEventListener("click", (c) => {
     c.preventDefault();
     const sectionC = document.querySelector(".contacto");
-    sectionC.scrollIntoView({behavior:"smooth"});
+    sectiC.scrollIntoView({behavior:"smooth"});
 })
 
